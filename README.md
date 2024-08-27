@@ -11,6 +11,45 @@
 
 - **HTML5**
   - [Book](https://github.com/engineershoaibakhterqadri/Web-App-Development-Course/blob/main/notes/html.ppt)
+ 
+| No. of Content | Topics                                                   | Week |
+| -------------- | -------------------------------------------------------- | ------------- |
+| 1              | **[Introduction](https://www.w3schools.com/html/html_intro.asp)**   |   |
+| 2              | **[HTML Elements](https://www.w3schools.com/html/html_elements.asp)**|   |
+| 3              | **[Attributes](https://www.w3schools.com/html/html_attributes.asp)**|   |
+| 4              | **[HTML5 Attributes](https://www.w3schools.com/html/html5_attributes.asp)**|   |
+| 5              | **[Headings](https://www.w3schools.com/html/html_headings.asp)**|   |
+| 6              | **[Paragraphs](https://www.w3schools.com/html/html_paragraphs.asp)**|   |
+| 7              | **[Styles](https://www.w3schools.com/html/html_styles.asp)**|   |
+| 8              | **[Formatting](https://www.w3schools.com/html/html_formatting.asp)**|   |
+| 9              | **[Quotations](https://www.w3schools.com/html/html_quotations.asp)**|   |
+| 10             | **[Comments](https://www.w3schools.com/html/html_comments.asp)**|   |
+| 11             | **[HTML Forms](https://www.w3schools.com/html/html_forms.asp)**|   |
+| 12             | **[HTML Input Types](https://www.w3schools.com/html/html_form_input_types.asp)**|   |
+| 13             | **[HTML Form Attributes](https://www.w3schools.com/html/html_form_attributes.asp)**|   |
+| 14             | **[HTML5 Web Storage](https://www.w3schools.com/html/html5_webstorage.asp)**|   |
+| 15             | **[HTML5 Geolocation](https://www.w3schools.com/html/html5_geolocation.asp)**|   |
+| 16             | **[HTML5 Drag and Drop](https://www.w3schools.com/html/html5_draganddrop.asp)**|   |
+| 17             | **[HTML5 Offline Web Applications](https://www.w3schools.com/html/html5_offline.asp)**|   |
+| 18             | **[HTML5 Audio/Video](https://www.w3schools.com/html/html5_audio.asp)**|   |
+| 19             | **[HTML5 Canvas](https://www.w3schools.com/html/html5_canvas.asp)**|   |
+| 20             | **[HTML Entities](https://www.w3schools.com/html/html_entities.asp)**|   |
+| 21             | **[HTML Character Sets](https://www.w3schools.com/html/html_charactersets.asp)**|   |
+| 22             | **[HTML Colors](https://www.w3schools.com/html/html_colors.asp)**|   |
+| 23             | **[HTML Symbols](https://www.w3schools.com/html/html_symbols.asp)**|   |
+| 24             | **[HTML Meta Tags](https://www.w3schools.com/html/html_head.asp)**|   |
+| 25             | **[HTML Iframes](https://www.w3schools.com/html/html_iframe.asp)**|   |
+| 26             | **[HTML Links](https://www.w3schools.com/html/html_links.asp)**|   |
+| 27             | **[HTML Images](https://www.w3schools.com/html/html_images.asp)**|   |
+| 28             | **[HTML Tables](https://www.w3schools.com/html/html_tables.asp)**|   |
+| 29             | **[HTML Lists](https://www.w3schools.com/html/html_lists.asp)**|   |
+
+
+
+  - Project 1 (Table)
+  - Project 2 (Resume)
+
+
 - **CSS3**
   - [Book](#)
 - **CSS Variables**
