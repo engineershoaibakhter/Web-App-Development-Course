@@ -9,7 +9,7 @@
 
 ## Topics
 
-- **HTML5**
+- **HTML5 Topics Table**
   - [Book](https://github.com/engineershoaibakhterqadri/Web-App-Development-Course/blob/main/notes/html.ppt)
  
 | No. of Content | Topics                                                   | Week |
@@ -49,13 +49,45 @@
   - Project 1 (Table)
   - Project 2 (Resume)
 
+    
 
-- **CSS3**
-  - [Book](#)
-- **CSS Variables**
-  - [W3schools](https://www.w3schools.com/css/css3_variables.asp)
-- **CSS Animations**
-  - [Animate.style](https://animate.style/)
+
+- **CSS3 Topics Table**
+
+| No. of Content | Topics                                                        | Week |
+| -------------- | ------------------------------------------------------------- | ------------- |
+| 1              | **[CSS Introduction](https://www.w3schools.com/css/css_intro.asp)**   |   |
+| 2              | **[CSS Syntax](https://www.w3schools.com/css/css_syntax.asp)**        |   |
+| 3              | **[CSS Selectors](https://www.w3schools.com/css/css_selectors.asp)**  |   |
+| 4              | **[CSS Colors](https://www.w3schools.com/css/css_colors.asp)**        |   |
+| 5              | **[CSS Backgrounds](https://www.w3schools.com/css/css_backgrounds.asp)**|   |
+| 6              | **[CSS Borders](https://www.w3schools.com/css/css_borders.asp)**      |   |
+| 7              | **[CSS Margins](https://www.w3schools.com/css/css_margins.asp)**      |   |
+| 8              | **[CSS Padding](https://www.w3schools.com/css/css_padding.asp)**      |   |
+| 9              | **[CSS Height and Width](https://www.w3schools.com/css/css_dimension.asp)**|   |
+| 10             | **[CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)**   |   |
+| 11             | **[CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)**     |   |
+| 12             | **[CSS Grid](https://www.w3schools.com/css/css_grid.asp)**            |   |
+| 13             | **[CSS Responsive Web Design](https://www.w3schools.com/css/css_rwd_intro.asp)**|   |
+| 14             | **[CSS Typography](https://www.w3schools.com/css/css_font.asp)**      |   |
+| 15             | **[CSS Text](https://www.w3schools.com/css/css_text.asp)**            |   |
+| 16             | **[CSS Font](https://www.w3schools.com/css/css_font.asp)**            |   |
+| 17             | **[CSS Icons](https://www.w3schools.com/css/css_icons.asp)**          |   |
+| 18             | **[CSS Units](https://www.w3schools.com/css/css_units.asp)**          |   |
+| 19             | **[CSS Functions](https://www.w3schools.com/css/css_functions.asp)**  |   |
+| 20             | **[CSS Media Queries](https://www.w3schools.com/css/css3_mediaqueries.asp)**|   |
+| 21             | **[CSS Animations](https://www.w3schools.com/css/css3_animations.asp)**|   |
+| 22             | **[CSS Transitions](https://www.w3schools.com/css/css3_transitions.asp)**|   |
+| 23             | **[CSS Transform](https://www.w3schools.com/css/css3_transforms.asp)**|   |
+| 24             | **[CSS Variables](https://www.w3schools.com/css/css3_variables.asp)**  |   |
+| 25             | **[CSS Gradients](https://www.w3schools.com/css/css3_gradients.asp)** |   |
+| 26             | **[CSS Shadows](https://www.w3schools.com/css/css3_shadows.asp)**     |   |
+| 27             | **[CSS Transition Timing Functions](https://www.w3schools.com/css/css3_transition-timing-function.asp)**|   |
+| 28             | **[CSS Pseudo-elements](https://www.w3schools.com/css/css_pseudo_elements.asp)**|   |
+| 29             | **[CSS Pseudo-classes](https://www.w3schools.com/css/css_pseudo_classes.asp)**|   |
+| 30             | **[CSS Selectors Reference](https://www.w3schools.com/cssref/css_selectors.asp)**|   |
+
+
 - **Flexbox**
   - [CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) 
 - **Font Awesome**
@@ -64,6 +96,10 @@
   - [Bootstrap](https://getbootstrap.com/)
 - **Google Fonts**
   - [Google Fonts](https://fonts.google.com/)
+    
+- **Project 3 (Responsive Resume)**
+- **Project 4 (Website [Navbar,Cards,Footer] )**
+- 
 - **Firebase Hosting**
   - [Netlify](https://www.firebase.google.com/)
 - **Vercel Hosting**
