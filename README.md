@@ -45,9 +45,8 @@
 | 29             | **[HTML Lists](https://www.w3schools.com/html/html_lists.asp)**|   |
 
 
-
-  - Project 1 (Table)
-  - Project 2 (Resume)
+  - **Project 1 (Table )**
+  - **Project 2 (Resume )**
 
     
 
