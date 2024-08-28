@@ -120,8 +120,67 @@
 
 | No. of Content | Topics                                                        | Week |
 | -------------- | ------------------------------------------------------------- | ------------- |
-| 1              | **[ Introduction ](https://www.w3schools.com/js/js_intro.asp)**   |   |
-| 2              | **[ Where to ](https://www.w3schools.com/js/js_whereto.asp)**        |   |
+| 1              | **[Introduction](https://www.w3schools.com/js/js_intro.asp)**   |   |
+| 2              | **[Where to](https://www.w3schools.com/js/js_whereto.asp)**        |   |
+| 3              | **[Output](https://www.w3schools.com/js/js_output.asp)**  |   |
+| 4              | **[Statements](https://www.w3schools.com/js/js_statements.asp)**        |   |
+| 5              | **[Syntax](https://www.w3schools.com/js/js_syntax.asp)**|   |
+| 6              | **[Comments](https://www.w3schools.com/js/js_comments.asp)**      |   |
+| 7              | **[Variables](https://www.w3schools.com/js/js_variables.asp)**      |   |
+| 8              | **[Let](https://www.w3schools.com/js/js_let.asp)**      |   |
+| 9              | **[Const](https://www.w3schools.com/js/js_const.asp)**|   |
+| 10             | **[Operators](https://www.w3schools.com/js/js_operators.asp)**   |   |
+| 11             | **[Arithmetic](https://www.w3schools.com/js/js_arithmetic.asp)**     |   |
+| 12             | **[Assignment](https://www.w3schools.com/js/js_assignment.asp)**            |   |
+| 13             | **[Data Types](https://www.w3schools.com/js/js_datatypes.asp)**|   |
+| 14             | **[Functions](https://www.w3schools.com/js/js_functions.asp)**      |   |
+| 15             | **[Objects](https://www.w3schools.com/js/js_objects.asp)**            |   |
+| 16             | **[Events](https://www.w3schools.com/js/js_events.asp)**            |   |
+| 17             | **[Strings](https://www.w3schools.com/js/js_strings.asp)**          |   |
+| 18             | **[String Methods](https://www.w3schools.com/js/js_string_methods.asp)**          |   |
+| 19             | **[Numbers](https://www.w3schools.com/js/js_numbers.asp)**  |   |
+| 20             | **[Number Methods](https://www.w3schools.com/js/js_number_methods.asp)**|   |
+| 21             | **[Arrays](https://www.w3schools.com/js/js_arrays.asp)**|   |
+| 22             | **[Array Methods](https://www.w3schools.com/js/js_array_methods.asp)**|   |
+| 23             | **[Sorting Arrays](https://www.w3schools.com/js/js_array_sort.asp)**|   |
+| 24             | **[Array Iteration](https://www.w3schools.com/js/js_array_iteration.asp)**  |   |
+| 25             | **[Dates](https://www.w3schools.com/js/js_dates.asp)** |   |
+| 26             | **[Date Formats](https://www.w3schools.com/js/js_date_formats.asp)**     |   |
+| 27             | **[Date Methods](https://www.w3schools.com/js/js_date_methods.asp)**|   |
+| 28             | **[Math](https://www.w3schools.com/js/js_math.asp)**|   |
+| 29             | **[Random](https://www.w3schools.com/js/js_random.asp)**|   |
+| 30             | **[Booleans](https://www.w3schools.com/js/js_booleans.asp)**|   |
+| 31             | **[Comparisons](https://www.w3schools.com/js/js_comparisons.asp)**|   |
+| 32             | **[Conditions](https://www.w3schools.com/js/js_if_else.asp)**|   |
+| 33             | **[Switch](https://www.w3schools.com/js/js_switch.asp)**|   |
+| 34             | **[Loops](https://www.w3schools.com/js/js_loop_for.asp)**|   |
+| 35             | **[For Loops](https://www.w3schools.com/js/js_loop_for.asp)**|   |
+| 36             | **[While Loops](https://www.w3schools.com/js/js_loop_while.asp)**|   |
+| 37             | **[Break and Continue](https://www.w3schools.com/js/js_break.asp)**|   |
+| 38             | **[Type Conversion](https://www.w3schools.com/js/js_type_conversion.asp)**|   |
+| 39             | **[Bitwise](https://www.w3schools.com/js/js_bitwise.asp)**|   |
+| 40             | **[RegExp](https://www.w3schools.com/js/js_regexp.asp)**|   |
+| 41             | **[Errors](https://www.w3schools.com/js/js_errors.asp)**|   |
+| 42             | **[Scope](https://www.w3schools.com/js/js_scope.asp)**|   |
+| 43             | **[Hoisting](https://www.w3schools.com/js/js_hoisting.asp)**|   |
+| 44             | **[Strict Mode](https://www.w3schools.com/js/js_strict.asp)**|   |
+| 45             | **[This Keyword](https://www.w3schools.com/js/js_this.asp)**|   |
+| 46             | **[Let vs Var](https://www.w3schools.com/js/js_let.asp)**|   |
+| 47             | **[Const Keyword](https://www.w3schools.com/js/js_const.asp)**|   |
+| 48             | **[Arrow Function](https://www.w3schools.com/js/js_arrow_function.asp)**|   |
+| 49             | **[Classes](https://www.w3schools.com/js/js_classes.asp)**|   |
+| 50             | **[JSON](https://www.w3schools.com/js/js_json_intro.asp)**|   |
+| 51             | **[Async](https://www.w3schools.com/js/js_async.asp)**|   |
+| 52             | **[Promises](https://www.w3schools.com/js/js_promise.asp)**|   |
+| 53             | **[Fetch API](https://www.w3schools.com/js/js_api_fetch.asp)**|   |
+| 54             | **[DOM](https://www.w3schools.com/js/js_htmldom.asp)**|   |
+| 55             | **[DOM Methods](https://www.w3schools.com/js/js_htmldom_methods.asp)**|   |
+| 56             | **[DOM Document](https://www.w3schools.com/js/js_htmldom_document.asp)**|   |
+| 57             | **[DOM Elements](https://www.w3schools.com/js/js_htmldom_elements.asp)**|   |
+| 58             | **[DOM Events](https://www.w3schools.com/js/js_htmldom_events.asp)**|   |
+| 59             | **[Forms API](https://www.w3schools.com/js/js_forms_api.asp)**|   |
+| 60             | **[HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)**|   |
+
 
 
 - **Firebase**
