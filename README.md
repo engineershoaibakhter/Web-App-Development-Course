@@ -4,7 +4,7 @@
 
 | Languages | HTML5 & CSS3 |
 | -------------- | ------------- |
-| **Duration**   | 2 Months - 32 Hours |
+| **Duration**   | 2 Weeks - 12 Hours |
 | **Quizzes**    | 1. HTML5  <br> 2. CSS3 |
 
 ## Topics
@@ -100,9 +100,11 @@
 - **Project 4 (Website [Navbar,Cards,Footer] )**
 - 
 - **Firebase Hosting**
-  - [Netlify](https://www.firebase.google.com/)
+  - [Firebase](https://www.firebase.google.com/)
 - **Vercel Hosting**
   - [Vercel](https://www.vercel.com/)
+- **GitHub Hosting**
+  - [Vercel](https://www.github.com/)
 - **Git & Github Basics**
   - [Github Desktop](https://desktop.github.com/)
 
@@ -111,56 +113,16 @@
 
 | Pre-requisite  | Module 1              |
 | -------------- | --------------------- |
-| **Duration**   | 4 Months – 64 Hours   |
-| **Quizzes**    | 1. JS1 (Chapter 1 to 20) <br> 2. JS2 (Chapter 21 to 40) <br> 3. JS3 (Chapter 41 to 60) <br> 4. JS4 (Chapter 61 to 89) <br> 5. TypeScript <br> 6. Git |
+| **Duration**   | 4 Weeks – 24 Hours   |
+| **Quizzes**    | JavaScript and  Git |
 
-## Topics
+- **JavaScript Topics Table**
 
-- **JavaScript**
-  - [Book](#)
-  - Assignments
-  - Advanced Javascript (All ES Versions)
-  - Variable Scoping
-  - Closure
-  - Template literals
-  - Destructuring
-  - Default parameters
-  - Rest parameter
-  - Spread Operator
-  - Arrow functions
-  - Enhanced object literals
-  - Iterators & For..of
-  - Generators
-  - Modules
-  - Map
-  - Array methods
-  - Higher-order function
-  - CallBack
-  - Promises
-  - Exponentiation Operator
-  - Classes
-  - Ternary Operator
-  - Optional chaining
+| No. of Content | Topics                                                        | Week |
+| -------------- | ------------------------------------------------------------- | ------------- |
+| 1              | **[ Introduction ](https://www.w3schools.com/js/js_intro.asp)**   |   |
+| 2              | **[ Where to ](https://www.w3schools.com/js/js_whereto.asp)**        |   |
 
-- **TypeScript**
-  - TS Compiler
-  - Type Annotations
-  - Interfaces
-  - Classes
-  - Generics
-  - Enums
-  - Type Inference
-  - Union and Intersection Types
-  - Type Guards
-  - Decorators
-
-- **Advance Github**
-  - Branches
-  - PR
-  - PR review
-  - Merge
-  - Rebase
-  - Cherry Pick
 
 - **Firebase**
   - Authentication
