@@ -44,10 +44,11 @@
 | 28             | **[HTML Tables](https://www.w3schools.com/html/html_tables.asp)**|   |
 | 29             | **[HTML Lists](https://www.w3schools.com/html/html_lists.asp)**|   |
 
+<hr />
 
   - **Project 1 (Table )**
   - **Project 2 (Resume )**
-
+<hr />
     
 
 
@@ -95,10 +96,14 @@
   - [Bootstrap](https://getbootstrap.com/)
 - **Google Fonts**
   - [Google Fonts](https://fonts.google.com/)
-    
+<hr />
+
+
 - **Project 3 (Responsive Resume)**
 - **Project 4 (Website [Navbar,Cards,Footer] )**
-- 
+
+<hr />
+
 - **Firebase Hosting**
   - [Firebase](https://www.firebase.google.com/)
 - **Vercel Hosting**
@@ -114,7 +119,7 @@
 | Pre-requisite  | Module 1              |
 | -------------- | --------------------- |
 | **Duration**   | 4 Weeks – 24 Hours   |
-| **Quizzes**    | JavaScript and  Git |
+| **Quizzes**    | JavaScript and  Firebase |
 
 - **JavaScript Topics Table**
 
@@ -182,14 +187,14 @@
 | 60             | **[HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)**|   |
 
 
+- **Firebase Topics Table**
 
-- **Firebase**
-  - Authentication
-    - Email
-    - Phone
-    - Google
-  - Firestore
-  - Storage
+| No. of Content | Topics                                                        | Week |
+| -------------- | ------------------------------------------------------------- | ------------- |
+| 1              | **[Authentication](https://firebase.google.com/docs/auth/web/start)**   |   |
+| 2              | **[Firestore](https://firebase.google.com/docs/firestore/quickstart)**        |   |
+| 3              | **[Storage](https://firebase.google.com/docs/storage/web/start)**  |   |
+
 
 
 
