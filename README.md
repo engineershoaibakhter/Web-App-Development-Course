@@ -195,37 +195,64 @@
 | 2              | **[Firestore](https://firebase.google.com/docs/firestore/quickstart)**        |   |
 | 3              | **[Storage](https://firebase.google.com/docs/storage/web/start)**  |   |
 
-
+- **Project 5 (Todo App with Firebase )**
 
 
 # Module 3: Modern Front-End Development
 
 | Prerequisites  | Module 1, 2            |
 | -------------- | ---------------------- |
-| **Duration**   | 3 Months – 72 Hours    |
+| **Duration**   | 2 Weeks - 12 Hours    |
 | **Quizzes**    | 1. ReactJS <br> 2. NextJS |
-| **Hackathon**  | After completion       |
 
 ## Topics
 
-- **ReactJS (CRA, Vite)**
-  - CRA
-  - Vite
-  - React Icons
-  - React Router DOM
-  - Context API
-  - Redux
-  - TanStack Query
-  - Ahooks
+| No. of Content | Topics                                                         |
+| -------------- | -------------------------------------------------------------- |
+| 1              | **[React Introduction](https://www.w3schools.com/react/react_intro.asp)**   |
+| 2              | **[React Environment Setup](https://www.w3schools.com/react/react_getstarted.asp)**  |
+| 3              | **[React JSX](https://www.w3schools.com/react/react_jsx.asp)**  |
+| 4              | **[React Components](https://www.w3schools.com/react/react_components.asp)**  |
+| 5              | **[React Class Components](https://www.w3schools.com/react/react_class.asp)**  |
+| 6              | **[React Functional Components](https://www.w3schools.com/react/react_function.asp)**  |
+| 7              | **[React Props](https://www.w3schools.com/react/react_props.asp)**  |
+| 8              | **[React Events](https://www.w3schools.com/react/react_events.asp)**  |
+| 9              | **[React Conditional Rendering](https://www.w3schools.com/react/react_conditional_rendering.asp)**  |
+| 10             | **[React Lists](https://www.w3schools.com/react/react_lists.asp)**  |
+| 11             | **[React Forms](https://www.w3schools.com/react/react_forms.asp)**  |
+| 12             | **[React State](https://www.w3schools.com/react/react_state.asp)**  |
+| 13             | **[React Lifecycle](https://www.w3schools.com/react/react_lifecycle.asp)**  |
+| 14             | **[React Hooks](https://www.w3schools.com/react/react_hooks.asp)**  |
+| 15             | **[React useState Hook](https://www.w3schools.com/react/react_usestate.asp)**  |
+| 16             | **[React useEffect Hook](https://www.w3schools.com/react/react_useeffect.asp)**  |
+| 17             | **[React useContext Hook](https://www.w3schools.com/react/react_usecontext.asp)**  |
+| 18             | **[React useReducer Hook](https://www.w3schools.com/react/react_usereducer.asp)**  |
+| 19             | **[React useRef Hook](https://www.w3schools.com/react/react_useref.asp)**  |
+| 20             | **[React useMemo Hook](https://www.w3schools.com/react/react_usememo.asp)**  |
+| 21             | **[React Custom Hooks](https://www.w3schools.com/react/react_customhooks.asp)**  |
+| 22             | **[React Router](https://www.w3schools.com/react/react_router.asp)**  |
+| 23             | **[React Memo](https://www.w3schools.com/react/react_memo.asp)**  |
+| 24             | **[React Context](https://www.w3schools.com/react/react_context.asp)**  |
+| 25             | **[React Redux](https://www.w3schools.com/react/react_redux.asp)**  |
+| 26             | **[React Refs](https://www.w3schools.com/react/react_refs.asp)**  |
+| 27             | **[React CSS Styling](https://www.w3schools.com/react/react_css_styling.asp)**  |
+| 28             | **[React Sass Styling](https://www.w3schools.com/react/react_sass.asp)**  |
+| 29             | **[React Bootstrap](https://www.w3schools.com/react/react_bootstrap.asp)**  |
+| 30             | **[React Material UI](https://www.w3schools.com/react/react_material_ui.asp)**  |
+| 31             | **[React Reactstrap](https://www.w3schools.com/react/react_reactstrap.asp)**  |
+| 32             | **[React Unit Testing](https://www.w3schools.com/react/react_testing.asp)**  |
+| 33             | **[React Higher-Order Components](https://www.w3schools.com/react/react_hoc.asp)**  |
+| 34             | **[React Error Boundaries](https://www.w3schools.com/react/react_errorboundaries.asp)**  |
+| 35             | **[React Fragments](https://www.w3schools.com/react/react_fragments.asp)**  |
+| 36             | **[React Portals](https://www.w3schools.com/react/react_portals.asp)**  |
+| 37             | **[React StrictMode](https://www.w3schools.com/react/react_strictmode.asp)**  |
+| 38             | **[React Profiler](https://www.w3schools.com/react/react_profiler.asp)**  |
+| 39             | **[React Concurrent Mode](https://www.w3schools.com/react/react_concurrent_mode.asp)**  |
+| 40             | **[React Suspense](https://www.w3schools.com/react/react_suspense.asp)**  |
 
-- **Tailwind CSS**
-  - Tailwind
-  - Material
-  - MUI
-  - AntD
 
 - **NextJS (SSR, AMP)**
-- **Firebase (Connection)**
+
 
 
 
