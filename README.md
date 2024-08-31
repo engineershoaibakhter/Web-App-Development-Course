@@ -205,7 +205,7 @@
 | **Duration**   | 2 Weeks - 12 Hours    |
 | **Quizzes**    | 1. ReactJS <br> 2. NextJS |
 
-## Topics
+- **React Topics Table**
 
 | No. of Content | Topics                                                         |
 | -------------- | -------------------------------------------------------------- |
@@ -233,25 +233,9 @@
 | 22             | **[React Router](https://www.w3schools.com/react/react_router.asp)**  |
 | 23             | **[React Memo](https://www.w3schools.com/react/react_memo.asp)**  |
 | 24             | **[React Context](https://www.w3schools.com/react/react_context.asp)**  |
-| 25             | **[React Redux](https://www.w3schools.com/react/react_redux.asp)**  |
-| 26             | **[React Refs](https://www.w3schools.com/react/react_refs.asp)**  |
-| 27             | **[React CSS Styling](https://www.w3schools.com/react/react_css_styling.asp)**  |
-| 28             | **[React Sass Styling](https://www.w3schools.com/react/react_sass.asp)**  |
-| 29             | **[React Bootstrap](https://www.w3schools.com/react/react_bootstrap.asp)**  |
-| 30             | **[React Material UI](https://www.w3schools.com/react/react_material_ui.asp)**  |
-| 31             | **[React Reactstrap](https://www.w3schools.com/react/react_reactstrap.asp)**  |
-| 32             | **[React Unit Testing](https://www.w3schools.com/react/react_testing.asp)**  |
-| 33             | **[React Higher-Order Components](https://www.w3schools.com/react/react_hoc.asp)**  |
-| 34             | **[React Error Boundaries](https://www.w3schools.com/react/react_errorboundaries.asp)**  |
-| 35             | **[React Fragments](https://www.w3schools.com/react/react_fragments.asp)**  |
-| 36             | **[React Portals](https://www.w3schools.com/react/react_portals.asp)**  |
-| 37             | **[React StrictMode](https://www.w3schools.com/react/react_strictmode.asp)**  |
-| 38             | **[React Profiler](https://www.w3schools.com/react/react_profiler.asp)**  |
-| 39             | **[React Concurrent Mode](https://www.w3schools.com/react/react_concurrent_mode.asp)**  |
-| 40             | **[React Suspense](https://www.w3schools.com/react/react_suspense.asp)**  |
 
 
-- **NextJS (SSR, AMP)**
+- **Basic NextJS**
 
 
 
@@ -263,19 +247,31 @@
 | **Duration**   | 3 Months – 48 Hours   |
 | **Quizzes**    | 1. NodeJS + ExpressJS <br> 2. MongoDB |
 
-## Topics
+- **Express JS Topics Table**
 
-- **NodeJS**
-- **ExpressJS**
-  - Basic Routes
-  - Database Connection
-  - CRUD
-  - Authentication
-  - Middleware
-  - Protected Routes
-  - File System module
+| No. of Content | Topics                                                         |
+| -------------- | -------------------------------------------------------------- |
+| 1              | **[Express Introduction](https://expressjs.com/en/starter/hello-world.html)**   |
+| 2              | **[Express Environment Setup](https://expressjs.com/en/starter/installing.html)**  |
+| 3              | **[Express Routing](https://expressjs.com/en/starter/basic-routing.html)**  |
+| 4              | **[Express Middleware](https://expressjs.com/en/guide/writing-middleware.html)**  |
+| 5              | **[Express Static Files](https://expressjs.com/en/starter/static-files.html)**  |
+| 6              | **[Express Template Engines](https://expressjs.com/en/guide/using-template-engines.html)**  |
+| 7              | **[Express Error Handling](https://expressjs.com/en/guide/error-handling.html)**  |
+| 8              | **[Express Debugging](https://expressjs.com/en/advanced/best-practice-performance.html#use-debug)**  |
+| 9              | **[Express Database Integration](https://expressjs.com/en/guide/database-integration.html)**  |
+| 10             | **[Express Authentication](https://expressjs.com/en/advanced/best-practice-security.html)**  |
+| 11             | **[Express Sessions](https://expressjs.com/en/resources/middleware/session.html)**  |
+| 12             | **[Express Cookies](https://expressjs.com/en/resources/middleware/cookie-parser.html)**  |
+| 13             | **[Express CORS](https://expressjs.com/en/resources/middleware/cors.html)**  |
+| 14             | **[Express RESTful APIs](https://expressjs.com/en/starter/basic-routing.html)**  |
+| 15             | **[Express File Uploads](https://expressjs.com/en/resources/middleware/multer.html)**  |
+| 16             | **[Express WebSocket Integration](https://expressjs.com/en/advanced/websocket.html)**  |
+| 17             | **[Express Rate Limiting](https://expressjs.com/en/advanced/best-practice-security.html#use-brute-force-protection)**  |
+| 18             | **[Express Best Practices](https://expressjs.com/en/advanced/best-practice-performance.html)**  |
+| 19             | **[Express Deployment](https://expressjs.com/en/starter/deploying.html)**  |
+| 20             | **[Express Testing](https://expressjs.com/en/advanced/best-practice-testing.html)**  |
 
-- **NextJS**
 
 - **MongoDB**
   - CRUD
