@@ -214,7 +214,6 @@
 | 3              | **[React JSX](https://www.w3schools.com/react/react_jsx.asp)**  |
 | 4              | **[React Components](https://www.w3schools.com/react/react_components.asp)**  |
 | 5              | **[React Class Components](https://www.w3schools.com/react/react_class.asp)**  |
-| 6              | **[React Functional Components](https://www.w3schools.com/react/react_function.asp)**  |
 | 7              | **[React Props](https://www.w3schools.com/react/react_props.asp)**  |
 | 8              | **[React Events](https://www.w3schools.com/react/react_events.asp)**  |
 | 9              | **[React Conditional Rendering](https://www.w3schools.com/react/react_conditional_rendering.asp)**  |
