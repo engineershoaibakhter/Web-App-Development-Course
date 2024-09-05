@@ -231,7 +231,6 @@
 | 21             | **[React Custom Hooks](https://www.w3schools.com/react/react_customhooks.asp)**  |
 | 22             | **[React Router](https://www.w3schools.com/react/react_router.asp)**  |
 | 23             | **[React Memo](https://www.w3schools.com/react/react_memo.asp)**  |
-| 24             | **[React Context](https://www.w3schools.com/react/react_context.asp)**  |
 
 
 - **Basic NextJS**
